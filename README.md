@@ -2,15 +2,17 @@
 
 
  **Passionate about problem-solving and developing complex software solutions, leveraging my strong computer science background.**
-
- I'm dedicated and always give 100% to my work, never backing down from challenges.
+ 
+ I'm dedicated and always give 100% to my work, never backing down from challenges.<br/><br/><br/>
+ ![test](https://github.com/user-attachments/assets/9ba5b540-c3f4-42ca-a961-5e9c0d903f83)
 
  I love exploring new technologies and have experience in:
 
- - **Web development** 🌐
- - **App development** 📱
- - **Logic building** 🧠
+  - **Web development** 🌐  
+ - **App development** 📱                       
+ - **Logic building** 
  - **Basic Figma design** 🎨
+
 ### 🔨 Languages and Tools:
 <br/>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
