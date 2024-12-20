@@ -35,6 +35,4 @@
 ### LocalEzy E-Commerce App
 
 - A comprehensive solution for local shop owners and customers.
-<br/>
-<img src="https://github.com/user-attachments/assets/1b1f279d-2949-4090-92aa-b27111c872dc" width=250px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/b2e8d73e-08e4-4a14-a83f-0ad504bca604" width=250px>
-
+![Frame 2](https://github.com/user-attachments/assets/f0b40d88-ba02-49b7-8de8-e1272b12848c)
